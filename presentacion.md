@@ -1,6 +1,5 @@
-# Presentación
-Hola! Mi nombre es [COMPLETAR].
+# Presentación - Tarea #0
 
-En mi tiempo libre me gusta...
+Hola! Mi nombre es Alejandro Portaluppi.
 
-Mi instrucción favorita del manual de intel es...
+En mi tiempo libre me gusta programar. Crear contenido con código ta re bueno.
